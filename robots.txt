@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ogransen.github.io/sitemap
+Sitemap: https://ogransen.github.io/app/sitemap
+Sitemap: https://ogransen.github.io/assets/sitemap
+Sitemap: https://ogransen.github.io/css/sitemap
+Sitemap: https://ogransen.github.io/includes/sitemap
+Sitemap: https://ogransen.github.io/item/sitemap
+Sitemap: https://ogransen.github.io/src/sitemap
